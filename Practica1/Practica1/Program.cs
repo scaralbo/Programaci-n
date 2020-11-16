@@ -130,21 +130,11 @@ namespace Practica1
 
 
 
-
-
-
-
             } while (operacion != "s");
-
 
             Console.WriteLine("Fin del programa");
 
 
-
-
-        }
-    }
-}
         }
     }
 }
